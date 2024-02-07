@@ -17,3 +17,15 @@
 - 1.4.2 [Add, Commit, Push](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/1.Preliminary.md#142-add-commit-push)
 
 - 1.4.3 [Create a public repository](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/1.Preliminary.md#143-create-a-public-repository) 
+
+### 2.Python if and else
+
+2.1 [Fundamental Knowledge](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/2.Python_if_else.md#21-fundamental-knowledge)
+
+2.2 [Small project: Math operator with if and else](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/2.Python_if_else.md#22-small-project-math-operator-with-if-and-else)
+
+- 2.2.1 [Create and initialize variables](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/2.Python_if_else.md#221-create-and-initialize-variables)
+
+- 2.2.2 [if...elif...else basic logic](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/2.Python_if_else.md#222-ifelifelse-basic-logic)
+
+- 2.2.3 [Project requirements](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/2.Python_if_else.md#223-project-requirements)
