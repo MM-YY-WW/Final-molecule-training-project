@@ -29,3 +29,16 @@
 - 2.2.2 [if...elif...else basic logic](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/2.Python_if_else.md#222-ifelifelse-basic-logic)
 
 - 2.2.3 [Project requirements](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/2.Python_if_else.md#223-project-requirements)
+
+### 3.Data Structures
+3.1 [Tutorials of Common Data Structures](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/3.Data_Structure.md#31-tutorials-of-common-data-structures)
+
+3.2 [Download and Investigate molecular datasets](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/3.Data_Structure.md#32-download-and-investigate-molecular-datasets)
+
+- 3.2.1 [Sample size](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/3.Data_Structure.md#321-sample-size)
+
+- 3.2.2 [Task number](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/3.Data_Structure.md#322-task-number)
+
+- 3.2.3 [Unique Label for Each Task](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/3.Data_Structure.md#323-unique-label-for-each-task)
+
+- 3.2.4 [Label ratio](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/3.Data_Structure.md#324-label-ratio)
