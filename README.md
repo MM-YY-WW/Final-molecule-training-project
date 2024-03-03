@@ -53,4 +53,3 @@
 - 4.2.2 [Multiplication Table](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/4.Loop.md#422-multiplication-table)
 
 - 4.2.3 [Find Prime Numbers](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/4.Loop.md#423-find-prime-numbers)
-- 4.2.2 [
