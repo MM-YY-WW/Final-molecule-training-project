@@ -42,3 +42,15 @@
 - 3.2.3 [Unique Label for Each Task](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/3.Data_Structure.md#323-unique-label-for-each-task)
 
 - 3.2.4 [Label ratio](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/3.Data_Structure.md#324-label-ratio)
+
+### 4. Loops
+4.1 [For Loop and While Loop](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/4.Loop.md#41-for-loop-and-while-loop)
+
+4.2 [Loop Practice](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/4.Loop.md#42-loop-practice)
+
+- 4.2.1 [Reversed String](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/4.Loop.md#421-reversed-string)
+
+- 4.2.2 [Multiplication Table](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/4.Loop.md#422-multiplication-table)
+
+- 4.2.3 [Find Prime Numbers](https://github.com/MM-YY-WW/Final-molecule-training-project/blob/main/4.Loop.md#423-find-prime-numbers)
+- 4.2.2 [
